@@ -7,16 +7,15 @@ Please register for Compliance at Speed Part 2- https://aka.ms/complianceatspeed
 
 Please register for Compliance at Speed Part 3 - https://aka.ms/complianceatspeed3-reg
 
-
-![image](https://github.com/AllyT-MS/ComplianceatSpeed/blob/master/Part1/Part1.png)
-
 ------------------------------------------------------------------------------------------------------------------
 
 ## Compliance at Speed Part 1 
 
+![image](https://github.com/AllyT-MS/ComplianceatSpeed/blob/master/Part1/Part1.png)
+
 On-Demand Recording - https://aka.ms/complianceatspeed-reg 
 
-_Compliance at Speed Part 1 - Live 20th April 2021 9.30AM - 1PM UK _
+__ Compliance at Speed Part 1 - Live 20th April 2021 9.30AM - 1PM UK __
 
 **Agenda Part 1**
 
