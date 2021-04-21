@@ -1,21 +1,22 @@
-#Welcome to the Compliance at Speed Repository
+# Welcome to the Compliance at Speed Repository
 ----------------------------------------------------------------------------------------------------
 
-##Upcoming Events in this series:
+## Upcoming Events in this series:
+
 Please register for Compliance at Speed Part 2- https://aka.ms/complianceatspeed2-reg
 
 Please register for Compliance at Speed Part 3 - https://aka.ms/complianceatspeed3-reg
 
 
-![image](https://github.com/allyt-ms/ComplianceatSpeed/Part1/part1.png)
+![image](https://github.com/AllyT-MS/ComplianceatSpeed/blob/master/Part1/Part1.png)
 
 ------------------------------------------------------------------------------------------------------------------
 
-#Compliance at Speed Part 1 
+## Compliance at Speed Part 1 
 
 On-Demand Recording - https://aka.ms/complianceatspeed-reg 
 
-Compliance at Speed Part 1 - Live date was 20th April 2021 9.30AM - 1PM UK
+_Compliance at Speed Part 1 - Live 20th April 2021 9.30AM - 1PM UK _
 
 **Agenda Part 1**
 
@@ -43,13 +44,17 @@ Compliance at Speed Part 1 - Live date was 20th April 2021 9.30AM - 1PM UK
 
 Slides uploaded to this Github Repo
 
+https://github.com/AllyT-MS/ComplianceatSpeed/blob/master/Part1/Compliance%20at%20Speed%20-%20Part1.pdf
+
 Coming Soon - Videos on how to build the Power Automate and Bots shown in Part 1
 ----------------------------------------------------------------------------------------------------
 
 
 Link to this repo - https://aka.ms/complianceatspeed-repo
 
-Feedback form - https//aka.ms/complianceatspeedfeed
+Feedback form - https://aka.ms/complianceatspeedfeed
+
+
 
 
 
