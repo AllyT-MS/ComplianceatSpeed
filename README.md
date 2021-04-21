@@ -1,11 +1,13 @@
-Welcome to the Compliance at Speed repository. 
+Welcome to the Compliance at Speed repository
+----------------------------------------------------------------------------------------------------
 
+/b Upcoming Events in this series: /b
 Please register for Compliance at Speed Part 2- https://aka.ms/complianceatspeed2-reg
 
 Please register for Compliance at Speed Part 3 - https://aka.ms/complianceatspeed3-reg
 
 
-![image](https://github.com/ComplianceatSpeed/Part1/part1.png)
+![image](https://github.com/allyt-ms/ComplianceatSpeed/Part1/part1.png)
 
 ------------------------------------------------------------------------------------------------------------------
 
