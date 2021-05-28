@@ -3,8 +3,6 @@
 
 ## Upcoming Events in this series:
 
-Please register for Compliance at Speed Part 2- https://aka.ms/complianceatspeed2-reg
-
 Please register for Compliance at Speed Part 3 - https://aka.ms/complianceatspeed3-reg
 
 ------------------------------------------------------------------------------------------------------------------
@@ -39,13 +37,41 @@ Please register for Compliance at Speed Part 3 - https://aka.ms/complianceatspee
 
 13:00 – Event ends
 
-**Slides uploaded to this Github Repo**
+**Part 1 Slides uploaded to this Github Repo**
 
 https://github.com/AllyT-MS/ComplianceatSpeed/blob/master/Part1/Compliance%20at%20Speed%20-%20Part1.pdf
 
 Coming Soon - Videos on how to build the Power Automate and Bots shown in Part 1
 ----------------------------------------------------------------------------------------------------
+## Compliance at Speed Part 2 
 
+![image](https://github.com/AllyT-MS/ComplianceatSpeed/blob/master/Part2/compatspeedpart2.png)
+
+**On-Demand Recording** - https://aka.ms/complianceatspeed-reg2 
+
+**Agenda Part 2**
+
+09:30 - Intro and Housekeeping 
+
+09:40 - Opening Keynote
+
+10:05 - RPA 
+
+10:40 - Insider Risk Deeper Dive
+
+11:20 - MCAS DLP 
+
+11:50 - Encryption options in M365 
+
+12:10 – Advanced Audit 
+
+12:25 – Project Syntex
+
+12:50 – Wrap Up
+
+**Part 2 Slides uploaded to this Github Repo**
+
+https://github.com/AllyT-MS/ComplianceatSpeed/blob/master/Part2/Compliance%at%Speed%Part%2%.pdf
 
 Link to this repo - https://aka.ms/complianceatspeed-repo
 
