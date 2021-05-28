@@ -71,7 +71,7 @@ Coming Soon - Videos on how to build the Power Automate and Bots shown in Part 1
 
 **Part 2 Slides uploaded to this Github Repo**
 
-https://github.com/AllyT-MS/ComplianceatSpeed/blob/master/Part2/Compliance%at%Speed%Part%2%.pdf
+https://github.com/AllyT-MS/ComplianceatSpeed/blob/master/Part2/Compliance%20at%20Speed%20Part%202%20.pdf
 
 Link to this repo - https://aka.ms/complianceatspeed-repo
 
