@@ -47,7 +47,7 @@ Coming Soon - Videos on how to build the Power Automate and Bots shown in Part 1
 
 ![image](https://github.com/AllyT-MS/ComplianceatSpeed/blob/master/Part2/compatspeedpart2.png)
 
-**On-Demand Recording** - https://aka.ms/complianceatspeed-reg2 
+**On-Demand Recording** - https://aka.ms/complianceatspeed2-reg
 
 **Agenda Part 2**
 
