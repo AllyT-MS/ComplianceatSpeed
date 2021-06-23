@@ -101,7 +101,7 @@ https://github.com/AllyT-MS/ComplianceatSpeed/blob/master/Part2/Compliance%20at%
 
 **Part 3 Slides uploaded to this Github Repo**
 
-https://github.com/AllyT-MS/ComplianceatSpeed/blob/master/Part2/Compliance%20at%20Speed%20Part%202%20.pdf
+https://github.com/AllyT-MS/ComplianceatSpeed/blob/master/Part3/Compliance%20at%20Speed%20-%20Part%203.pdf
 
 Link to this repo - https://aka.ms/complianceatspeed-repo
 
