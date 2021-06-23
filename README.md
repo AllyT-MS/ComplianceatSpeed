@@ -73,6 +73,36 @@ Coming Soon - Videos on how to build the Power Automate and Bots shown in Part 1
 
 https://github.com/AllyT-MS/ComplianceatSpeed/blob/master/Part2/Compliance%20at%20Speed%20Part%202%20.pdf
 
+## Compliance at Speed Part 3 
+
+![image](https://github.com/AllyT-MS/ComplianceatSpeed/blob/master/Part3/part3.png)
+
+**On-Demand Recording** - https://aka.ms/complianceatspeed3-reg
+
+**Agenda Part 3**
+
+09:30 - Intro and Housekeeping 
+
+09:40 - Opening Keynote
+
+09:50 - Know Your Data
+
+10:10 - Intergrating Insider Risk Management Alerts into Azure Sentinel
+
+10:50 - eDiscovery - UX and Predicive Coding
+
+11:25 - PowerBi 
+
+12:00 – Conditional Access 
+
+12:30 – How to Build a Compliance Practice
+
+13:00 - End
+
+**Part 3 Slides uploaded to this Github Repo**
+
+https://github.com/AllyT-MS/ComplianceatSpeed/blob/master/Part2/Compliance%20at%20Speed%20Part%202%20.pdf
+
 Link to this repo - https://aka.ms/complianceatspeed-repo
 
 Feedback form - https://aka.ms/complianceatspeedfeed
